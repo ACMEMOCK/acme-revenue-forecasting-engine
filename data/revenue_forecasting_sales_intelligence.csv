@@ -1,0 +1,153 @@
+record_id,region,country,sales_team,account_executive,customer_name,industry,reporting_month,subscription_plan,monthly_recurring_revenue_eur,expansion_revenue_eur,renewal_revenue_eur,churned_revenue_eur,pipeline_value_eur,closed_won_value_eur,closed_lost_value_eur,sales_target_eur,quota_attainment_pct,forecasted_revenue_next_quarter,forecast_confidence_score,customer_growth_score,renewal_probability_pct,product_line,sales_stage
+REV-30001,APAC,Singapore,APAC-Core,Mei Lin,Helios Software,Healthcare,2025-07,Enterprise,41710.93,8549.72,515271.62,0.0,593084.79,0.0,36203.35,447051.52,53.5,317608.77,0.67,72,88,SupportPilot,Proposal
+REV-30002,EMEA,Portugal,EMEA-Iberia,Liam O'Connell,Volta FinServ,FinTech,2025-07,Enterprise,20164.46,1162.45,0.0,0.0,150868.29,0.0,0.0,476926.77,2,102646.33,0.79,48,82,FlowSphere,Negotiation
+REV-30003,LATAM,Brazil,LATAM-Andes,Isabela Costa,Mumbai HealthLink,Manufacturing,2025-07,Growth,3570.94,0.0,0.0,0.0,11914.08,0.0,303.67,83288.67,2,16298.6,0.75,56,67,InsightGrid,Negotiation
+REV-30004,LATAM,Brazil,LATAM-Mexico,Priya Menon,Verde Pharma,FinTech,2025-07,Enterprise,23684.81,3073.09,0.0,0.0,249478.47,243484.09,0.0,532494.6,43.8,166305.2,0.94,48,95,SupportPilot,Closed Won
+REV-30005,North America,Canada,NA-West,Aiko Yamamoto,Sydney FinPath,Manufacturing,2025-07,Enterprise,69328.26,8783.69,0.0,0.0,469971.53,40774.21,0.0,529730.84,17.4,400415.33,0.8,55,83,SupportPilot,Negotiation
+REV-30006,EMEA,Belgium,EMEA-Iberia,Lucas Almeida,Halden Bank,SaaS,2025-08,Enterprise,33274.77,7024.16,399465.27,0.0,547549.53,78422.22,0.0,497208.66,59.7,386151.7,0.71,71,96,FlowSphere,Proposal
+REV-30007,EMEA,Poland,EMEA-South,Marta Sokolowska,Iberia DataWorks,Retail,2025-08,Business,12512.03,2181.35,0.0,0.0,52412.9,6379.23,0.0,189299.92,2,61280.34,0.84,50,73,FlowSphere,Negotiation
+REV-30008,EMEA,Netherlands,EMEA-South,Jakub Nowak,Kestrel Markets,FinTech,2025-08,Growth,1692.73,0.0,20309.12,0.0,25684.74,0.0,3162.62,120272.71,10.6,15959.14,0.45,60,62,SupportPilot,Prospecting
+REV-30009,EMEA,Belgium,EMEA-Iberia,Elena Marchetti,Maple Insurance,Retail,2025-08,Enterprise,17687.39,975.51,0.0,0.0,186708.07,0.0,0.0,958181.9,2,115072.65,0.84,50,92,SupportPilot,Negotiation
+REV-30010,EMEA,Belgium,EMEA-DACH,Isabela Costa,Maple Insurance,Retail,2025-08,Enterprise,50286.83,5912.57,587365.03,44608.94,763648.52,630466.05,0.0,746568.86,118.3,370694.28,0.98,52,56,InsightGrid,Closed Won
+REV-30011,North America,Canada,NA-East,Yuki Tanaka,Tundra Goods,Retail,2025-08,Growth,2467.97,0.0,0.0,0.0,14666.81,0.0,12011.98,63694.62,2,11731.55,0.61,53,50,SupportPilot,Closed Lost
+REV-30012,APAC,Indonesia,APAC-Core,Camila Rojas,Copenhagen Med,SaaS,2025-09,Enterprise,67198.14,0.0,0.0,0.0,658254.01,0.0,0.0,533301.83,9.7,446383.73,0.47,56,96,FlowSphere,Prospecting
+REV-30013,EMEA,Denmark,EMEA-Iberia,Olivia Carter,Cape Town Apps,Manufacturing,2025-09,Enterprise,21976.56,0.0,254757.22,0.0,67226.02,63175.73,0.0,513067.22,33.6,96644.36,0.98,65,93,FlowSphere,Closed Won
+REV-30014,EMEA,Belgium,EMEA-North,Olivia Carter,Maple Insurance,Retail,2025-09,Enterprise,57281.74,0.0,637320.23,0.0,712015.83,611853.54,0.0,531170.64,164.1,479270.36,0.98,56,80,InsightGrid,Closed Won
+REV-30015,APAC,Malaysia,APAC-South,Rajiv Kapoor,Athens Retailers,SaaS,2025-10,Business,9493.35,1217.33,108735.49,0.0,147892.41,135271.06,0.0,291744.72,65.2,107202.93,0.97,65,74,FlowSphere,Closed Won
+REV-30016,APAC,Singapore,APAC-Core,Tomás Ferreira,Helios Software,Healthcare,2025-10,Growth,2251.13,517.52,26170.75,0.0,19731.53,0.0,0.0,125175.78,3.2,16496.45,0.7,68,76,InsightGrid,Negotiation
+REV-30017,APAC,Malaysia,APAC-Core,Isabela Costa,Nordwind Logistics,Healthcare,2025-10,Starter,1057.14,174.8,11878.01,0.0,10457.01,932.4,0.0,39140.2,26.6,7220.0,0.36,67,52,SupportPilot,Prospecting
+REV-30018,APAC,South Korea,APAC-South,Mei Lin,Osaka Robotics,SaaS,2025-10,Growth,2332.82,401.67,26717.53,0.0,9625.94,0.0,947.09,77234.28,13.5,11946.73,0.68,70,75,FlowSphere,Proposal
+REV-30019,EMEA,Belgium,EMEA-North,Olivia Carter,Lumen Retail Group,FinTech,2025-10,Business,6374.46,0.0,69232.72,0.0,50271.38,0.0,0.0,317808.29,6.0,30551.78,0.86,63,76,InsightGrid,Negotiation
+REV-30020,EMEA,Portugal,EMEA-North,Rajiv Kapoor,Volta FinServ,FinTech,2025-10,Starter,875.86,0.0,9961.75,0.0,3807.14,0.0,0.0,21610.08,27.4,3763.32,0.53,71,67,InsightGrid,Proposal
+REV-30021,LATAM,Colombia,LATAM-Brazil,Anika Roth,Krakow Software,SaaS,2025-10,Business,13524.62,3281.26,149491.32,0.0,104696.39,0.0,11789.87,291039.94,16.6,96991.59,0.65,69,78,InsightGrid,Proposal
+REV-30022,LATAM,Colombia,LATAM-Mexico,Henrik Bergstrom,Krakow Software,SaaS,2025-10,Business,13958.52,2195.68,168037.85,0.0,134669.37,0.0,806.87,219110.47,28.0,98498.68,0.76,74,79,FlowSphere,Proposal
+REV-30023,LATAM,Brazil,LATAM-Mexico,Ethan Brooks,Sturm Industries,FinTech,2025-10,Starter,963.48,0.0,0.0,0.0,7152.29,1199.16,984.72,22155.42,2,5016.0,0.38,53,56,FlowSphere,Prospecting
+REV-30024,North America,United States,NA-Central,Jakub Nowak,Toronto MedTech,Manufacturing,2025-10,Starter,868.92,168.65,0.0,2763.05,10242.41,0.0,0.0,30369.08,2,5196.98,0.71,1,23,SupportPilot,Negotiation
+REV-30025,North America,Canada,NA-Central,Camila Rojas,Tundra Goods,Retail,2025-10,Business,9365.82,2752.47,0.0,0.0,132354.48,0.0,0.0,173084.47,4.7,99126.76,0.72,55,78,FlowSphere,Proposal
+REV-30026,LATAM,Argentina,LATAM-Brazil,Liam O'Connell,Sunrise Wellness,Healthcare,2025-11,Business,10546.15,0.0,127573.7,33032.72,173199.55,0.0,0.0,144654.17,28.6,88529.8,0.62,9,58,FlowSphere,Proposal
+REV-30027,North America,United States,NA-East,Sven Andersen,Kanto FoodMart,Manufacturing,2025-11,Enterprise,46418.07,0.0,567964.8,0.0,489458.39,0.0,0.0,455667.19,56.6,280354.02,0.58,61,92,InsightGrid,Prospecting
+REV-30028,North America,Canada,NA-West,Noah Becker,Lisbon DataLab,Retail,2025-11,Business,12498.12,942.61,0.0,0.0,62480.97,56210.67,0.0,184701.2,34.5,66310.68,0.97,58,78,SupportPilot,Closed Won
+REV-30029,North America,Canada,NA-East,Diego Alvarez,Sydney FinPath,Manufacturing,2025-11,Growth,3447.53,0.0,42908.19,0.0,14796.98,13441.62,0.0,84341.75,43.2,16896.31,0.98,64,77,FlowSphere,Closed Won
+REV-30030,APAC,India,APAC-South,Liam O'Connell,Hamburg LogiCorp,Retail,2025-12,Business,10927.59,0.0,0.0,0.0,53705.49,49869.67,0.0,147864.43,39.8,56414.12,0.98,52,81,SupportPilot,Closed Won
+REV-30031,APAC,Singapore,APAC-ANZ,Camila Rojas,Polaris Health,SaaS,2025-12,Business,6174.2,0.0,0.0,0.0,94897.79,85513.74,0.0,273280.67,31.3,43772.28,0.98,54,74,InsightGrid,Closed Won
+REV-30032,EMEA,Poland,EMEA-DACH,Hiroshi Sato,Iberia DataWorks,Retail,2025-12,Growth,1692.91,264.69,0.0,1187.31,22554.78,18666.23,0.0,61213.81,41.9,14603.07,0.98,34,46,FlowSphere,Closed Won
+REV-30033,EMEA,Belgium,EMEA-DACH,Isabela Costa,Maple Insurance,Retail,2025-12,Growth,3593.75,231.97,0.0,2781.01,15134.88,0.0,0.0,96401.28,7.5,14754.27,0.71,30,30,SupportPilot,Proposal
+REV-30034,EMEA,United Kingdom,EMEA-DACH,Pieter de Vries,Milan FashionTech,Retail,2025-12,Enterprise,46378.7,0.0,556750.91,0.0,431828.34,353717.28,0.0,958652.98,61.2,266375.66,0.91,71,90,FlowSphere,Closed Won
+REV-30035,EMEA,Portugal,EMEA-DACH,Mei Lin,Volta FinServ,FinTech,2025-12,Starter,538.64,0.0,0.0,0.0,9465.26,9448.88,0.0,39119.16,25.4,4582.52,0.93,45,62,InsightGrid,Closed Won
+REV-30036,LATAM,Argentina,LATAM-Brazil,Chloé Laurent,Patagonia FinCo,Healthcare,2025-12,Starter,1123.46,0.0,12617.02,0.0,13998.81,0.0,0.0,39527.8,14.2,10478.82,0.72,68,61,InsightGrid,Negotiation
+REV-30037,LATAM,Colombia,LATAM-Brazil,Lucas Almeida,Singapore HealthOne,Healthcare,2025-12,Enterprise,31911.74,0.0,0.0,0.0,440074.53,0.0,0.0,716314.59,2,332153.32,0.62,47,82,FlowSphere,Prospecting
+REV-30038,LATAM,Argentina,LATAM-Mexico,Anika Roth,Sunrise Wellness,Healthcare,2025-12,Starter,634.75,27.23,0.0,0.0,5515.71,0.0,0.0,27870.43,2.8,4604.45,0.37,49,54,InsightGrid,Prospecting
+REV-30039,North America,United States,NA-Central,Sven Andersen,Kanto FoodMart,Manufacturing,2025-12,Business,10923.9,0.0,0.0,0.0,144289.72,125211.95,0.0,211652.53,59.0,88052.81,0.98,49,74,InsightGrid,Closed Won
+REV-30040,North America,United States,NA-East,Diego Alvarez,Seattle DataHub,Manufacturing,2025-12,Enterprise,26549.13,0.0,0.0,0.0,379820.75,0.0,206521.78,825770.27,4.6,219662.34,0.66,47,67,FlowSphere,Closed Lost
+REV-30041,APAC,Indonesia,APAC-ANZ,Rajiv Kapoor,Copenhagen Med,SaaS,2026-01,Enterprise,21411.58,0.0,0.0,16411.02,368654.82,312297.82,0.0,672459.51,47.1,229643.51,0.98,29,59,SupportPilot,Closed Won
+REV-30042,APAC,India,APAC-ANZ,Sofia Ricci,Hamburg LogiCorp,Retail,2026-01,Business,10401.12,0.0,0.0,0.0,57414.97,53030.2,0.0,201451.16,33.6,59038.81,0.93,54,87,FlowSphere,Closed Won
+REV-30043,APAC,Singapore,APAC-ANZ,Sofia Ricci,Helios Software,Healthcare,2026-01,Business,12846.44,0.0,0.0,0.0,39034.65,4219.17,0.0,238193.76,13.6,56811.94,0.41,58,86,SupportPilot,Prospecting
+REV-30044,APAC,Singapore,APAC-Core,Liam O'Connell,Helios Software,Healthcare,2026-01,Enterprise,25983.24,0.0,0.0,0.0,82077.21,0.0,0.0,713743.57,3.0,122917.34,0.9,48,85,InsightGrid,Negotiation
+REV-30045,APAC,New Zealand,APAC-ANZ,Camila Rojas,Nimbus Cloud Co,FinTech,2026-01,Enterprise,41766.86,7612.78,0.0,0.0,672233.13,0.0,0.0,425741.34,11.3,461051.16,0.8,59,95,SupportPilot,Negotiation
+REV-30046,APAC,South Korea,APAC-Core,Tomás Ferreira,Osaka Robotics,SaaS,2026-01,Enterprise,72187.45,0.0,0.0,0.0,1067914.71,0.0,1038505.38,843697.07,3.3,548013.37,0.67,55,74,InsightGrid,Closed Lost
+REV-30047,EMEA,Austria,EMEA-North,Pieter de Vries,Auckland MarketCo,Manufacturing,2026-01,Enterprise,16048.32,2387.48,0.0,0.0,235715.51,0.0,0.0,834314.44,8.8,171040.56,0.8,49,81,FlowSphere,Negotiation
+REV-30048,EMEA,Ireland,EMEA-North,Henrik Bergstrom,Austin RetailNet,FinTech,2026-01,Growth,3018.72,553.68,0.0,5607.59,28975.05,0.0,978.63,125069.94,7.4,12860.41,0.82,20,47,InsightGrid,Negotiation
+REV-30049,EMEA,Ireland,EMEA-Iberia,Hiroshi Sato,Austin RetailNet,FinTech,2026-01,Business,12396.12,0.0,144735.8,45064.14,93696.75,68696.45,0.0,195605.0,76.0,23219.74,0.92,1,51,FlowSphere,Closed Won
+REV-30050,EMEA,Belgium,EMEA-North,Ethan Brooks,Maple Insurance,Retail,2026-01,Growth,1423.22,254.91,15933.58,0.0,8551.07,6522.84,0.0,126066.98,14.7,7585.38,0.86,64,76,SupportPilot,Closed Won
+REV-30051,EMEA,Belgium,EMEA-Iberia,Aiko Yamamoto,Maple Insurance,Retail,2026-01,Starter,329.02,0.0,0.0,1083.07,4788.11,885.7,0.0,33443.45,2,1687.3,0.41,1,42,InsightGrid,Prospecting
+REV-30052,EMEA,United Kingdom,EMEA-South,Diego Alvarez,Milan FashionTech,Retail,2026-01,Enterprise,18744.98,3430.48,0.0,0.0,181988.97,132687.47,0.0,921540.46,23.8,133963.14,0.98,55,90,InsightGrid,Closed Won
+REV-30053,EMEA,United Kingdom,EMEA-DACH,Pieter de Vries,Milan FashionTech,Retail,2026-01,Business,9442.9,795.08,103904.75,0.0,51980.08,37326.99,0.0,312634.74,36.0,51729.46,0.98,65,80,SupportPilot,Closed Won
+REV-30054,EMEA,Belgium,EMEA-North,Tomás Ferreira,Onyx Manufacturing,Retail,2026-01,Business,9913.74,2681.44,114410.03,0.0,75355.4,68363.12,0.0,140704.35,82.1,67515.81,0.9,73,81,FlowSphere,Closed Won
+REV-30055,EMEA,Portugal,EMEA-North,Anika Roth,Volta FinServ,FinTech,2026-01,Business,10320.08,3262.57,115163.14,0.0,109436.43,0.0,0.0,171435.11,27.9,63908.65,0.55,77,72,InsightGrid,Prospecting
+REV-30056,LATAM,Mexico,LATAM-Brazil,Sofia Ricci,Bengaluru Forge,SaaS,2026-01,Starter,537.75,0.0,0.0,0.0,4030.27,0.0,578.93,36698.07,2,3774.51,0.78,54,60,InsightGrid,Negotiation
+REV-30057,LATAM,Colombia,LATAM-Mexico,Jakub Nowak,Krakow Software,SaaS,2026-01,Enterprise,44383.9,13974.36,556386.26,0.0,140741.99,18316.09,0.0,463027.51,54.8,184689.07,0.86,68,86,FlowSphere,Negotiation
+REV-30058,LATAM,Brazil,LATAM-Brazil,Pieter de Vries,Mumbai HealthLink,Manufacturing,2026-01,Growth,4318.52,448.76,0.0,0.0,56761.03,0.0,0.0,110226.16,5.9,29941.81,0.43,53,67,FlowSphere,Prospecting
+REV-30059,LATAM,Argentina,LATAM-Brazil,Marta Sokolowska,Orbita Retail,Manufacturing,2026-01,Enterprise,16007.73,0.0,0.0,0.0,82081.62,58164.66,0.0,442490.7,19.0,85317.17,0.91,51,86,InsightGrid,Closed Won
+REV-30060,LATAM,Argentina,LATAM-Andes,Marta Sokolowska,Orbita Retail,Manufacturing,2026-01,Enterprise,44660.41,1693.81,537219.41,0.0,361441.01,0.0,0.0,896253.71,35.9,215671.73,0.57,59,88,FlowSphere,Prospecting
+REV-30061,LATAM,Argentina,LATAM-Andes,Diego Alvarez,Orbita Retail,Manufacturing,2026-01,Business,9998.48,359.67,0.0,0.0,81632.37,0.0,0.0,149010.03,2,58770.56,0.43,56,77,SupportPilot,Prospecting
+REV-30062,LATAM,Argentina,LATAM-Brazil,Isabela Costa,Patagonia FinCo,Healthcare,2026-01,Business,12279.74,1343.29,0.0,0.0,215566.98,0.0,140957.42,178732.6,2,106172.53,0.52,61,74,FlowSphere,Closed Lost
+REV-30063,LATAM,Argentina,LATAM-Andes,Aiko Yamamoto,Praga Steelworks,FinTech,2026-01,Starter,1119.36,0.0,12881.85,0.0,19713.94,14639.05,0.0,18666.41,99.2,10863.06,0.92,72,67,SupportPilot,Closed Won
+REV-30064,LATAM,Argentina,LATAM-Mexico,Henrik Bergstrom,Praga Steelworks,FinTech,2026-01,Growth,2618.53,615.89,29938.36,0.0,16122.61,0.0,0.0,61251.27,22.9,12328.57,0.73,67,66,SupportPilot,Proposal
+REV-30065,LATAM,Brazil,LATAM-Brazil,Noah Becker,Sturm Industries,FinTech,2026-01,Enterprise,41997.22,8068.92,0.0,0.0,258180.36,0.0,251156.21,533782.75,5.9,199123.38,0.56,61,76,SupportPilot,Closed Lost
+REV-30066,North America,Canada,NA-West,Priya Menon,Andes Trading,SaaS,2026-01,Growth,2968.76,0.0,35099.87,4146.75,51184.17,5684.43,0.0,121404.95,22.8,26762.76,0.37,30,27,InsightGrid,Prospecting
+REV-30067,North America,Canada,NA-West,Tomás Ferreira,Lisbon DataLab,Retail,2026-01,Enterprise,48706.61,7676.02,587279.79,0.0,805587.55,32101.69,0.0,728755.79,32.2,545952.52,0.79,64,81,InsightGrid,Proposal
+REV-30068,North America,United States,NA-East,Liam O'Connell,Seattle DataHub,Manufacturing,2026-01,Starter,659.62,0.0,7719.83,887.9,2540.86,1876.94,0.0,18593.52,20.2,2333.39,0.77,34,26,FlowSphere,Closed Won
+REV-30069,North America,United States,NA-East,Olivia Carter,Toronto MedTech,Manufacturing,2026-01,Enterprise,73285.14,0.0,0.0,0.0,1060583.15,0.0,0.0,441354.98,7.6,576585.37,0.82,44,84,InsightGrid,Negotiation
+REV-30070,APAC,Japan,APAC-South,Elena Marchetti,Aegis Cloud,FinTech,2026-02,Growth,2772.73,341.51,30405.59,0.0,20371.1,17791.3,0.0,81840.12,44.8,17912.55,0.92,73,68,SupportPilot,Closed Won
+REV-30071,APAC,Malaysia,APAC-Core,Priya Menon,Athens Retailers,SaaS,2026-02,Enterprise,42806.64,0.0,0.0,0.0,730080.86,727460.9,0.0,935700.34,77.0,347246.62,0.94,52,94,FlowSphere,Closed Won
+REV-30072,APAC,Malaysia,APAC-ANZ,Hiroshi Sato,Athens Retailers,SaaS,2026-02,Growth,3260.0,0.0,0.0,8230.88,21218.58,0.0,16924.94,112448.92,6.2,7046.38,0.65,1,21,FlowSphere,Closed Lost
+REV-30073,APAC,New Zealand,APAC-South,Noah Becker,Nimbus Cloud Co,FinTech,2026-02,Enterprise,22368.62,6286.61,0.0,0.0,148207.18,0.0,0.0,925355.5,2,122244.4,0.54,56,93,FlowSphere,Prospecting
+REV-30074,APAC,Malaysia,APAC-South,Noah Becker,Nordwind Logistics,Healthcare,2026-02,Starter,784.65,79.29,0.0,0.0,6938.47,0.0,0.0,25399.9,11.4,5452.69,0.7,51,61,InsightGrid,Negotiation
+REV-30075,APAC,South Korea,APAC-Core,Ethan Brooks,Osaka Robotics,SaaS,2026-02,Growth,3027.13,248.3,0.0,0.0,19708.08,0.0,0.0,89503.25,2,15857.63,0.77,46,75,SupportPilot,Negotiation
+REV-30076,APAC,Singapore,APAC-Core,Olivia Carter,Polaris Health,SaaS,2026-02,Enterprise,41582.73,0.0,0.0,0.0,506806.91,0.0,0.0,794074.74,2,328728.05,0.57,56,95,FlowSphere,Prospecting
+REV-30077,APAC,Singapore,APAC-Core,Lucas Almeida,Polaris Health,SaaS,2026-02,Business,13186.57,0.0,143611.03,0.0,203322.08,154168.66,0.0,153520.99,140.1,101263.02,0.98,56,82,FlowSphere,Closed Won
+REV-30078,EMEA,Denmark,EMEA-South,Henrik Bergstrom,Cape Town Apps,Manufacturing,2026-02,Business,13701.04,0.0,169234.05,0.0,60619.85,0.0,0.0,228069.9,32.8,60097.73,0.82,67,73,FlowSphere,Negotiation
+REV-30079,EMEA,Denmark,EMEA-South,Sven Andersen,Cape Town Apps,Manufacturing,2026-02,Business,4549.88,682.91,0.0,0.0,63470.62,63299.48,0.0,288600.03,27.6,31241.41,0.98,53,81,FlowSphere,Closed Won
+REV-30080,EMEA,Austria,EMEA-Iberia,Olivia Carter,Helix Biotech,SaaS,2026-02,Starter,514.53,39.19,0.0,0.0,1892.21,186.8,0.0,23791.51,2,2068.23,0.47,47,61,SupportPilot,Prospecting
+REV-30081,EMEA,Belgium,EMEA-South,Hiroshi Sato,Lumen Retail Group,FinTech,2026-02,Enterprise,62292.14,0.0,0.0,0.0,271349.99,263343.21,0.0,716190.54,41.5,273964.1,0.92,55,91,FlowSphere,Closed Won
+REV-30082,EMEA,United Kingdom,EMEA-North,Camila Rojas,Milan FashionTech,Retail,2026-02,Business,11588.96,1165.94,0.0,0.0,75519.67,0.0,61530.16,273795.04,2,67987.08,0.61,56,53,SupportPilot,Closed Lost
+REV-30083,EMEA,Belgium,EMEA-Iberia,Aiko Yamamoto,Onyx Manufacturing,Retail,2026-02,Business,5826.16,0.0,68752.03,0.0,49665.57,46825.07,0.0,176385.53,34.5,41917.84,0.9,61,84,InsightGrid,Closed Won
+REV-30084,EMEA,Portugal,EMEA-DACH,Olivia Carter,Volta FinServ,FinTech,2026-02,Enterprise,35033.42,0.0,0.0,0.0,271733.57,31871.69,0.0,843476.4,2,239450.49,0.64,47,80,InsightGrid,Proposal
+REV-30085,LATAM,Mexico,LATAM-Mexico,Priya Menon,Bengaluru Forge,SaaS,2026-02,Business,7847.35,949.39,93488.62,0.0,123797.25,0.0,3772.02,294832.17,6.8,69820.77,0.78,71,85,SupportPilot,Proposal
+REV-30086,LATAM,Colombia,LATAM-Brazil,Priya Menon,Krakow Software,SaaS,2026-02,Business,4863.24,1326.43,52622.61,0.0,64072.2,4000.61,0.0,283150.61,12.5,30005.29,0.5,74,73,FlowSphere,Prospecting
+REV-30087,LATAM,Colombia,LATAM-Mexico,Marta Sokolowska,Krakow Software,SaaS,2026-02,Business,13399.03,0.0,0.0,0.0,110829.22,91297.92,0.0,258631.44,41.3,78643.39,0.98,45,74,InsightGrid,Closed Won
+REV-30088,LATAM,Mexico,LATAM-Mexico,Priya Menon,Lyon BioCorp,Healthcare,2026-02,Business,13513.28,0.0,0.0,0.0,138640.06,23212.73,12902.28,256043.57,13.1,113985.11,0.68,46,87,FlowSphere,Proposal
+REV-30089,LATAM,Chile,LATAM-Mexico,Aiko Yamamoto,Mistral Pay,SaaS,2026-02,Growth,3447.51,152.15,0.0,0.0,54641.72,42463.47,0.0,70544.53,53.6,32218.41,0.92,53,68,InsightGrid,Closed Won
+REV-30090,LATAM,Brazil,LATAM-Brazil,Aiko Yamamoto,Mumbai HealthLink,Manufacturing,2026-02,Enterprise,26083.35,1035.14,0.0,0.0,324524.71,0.0,0.0,542933.68,2.2,216454.33,0.55,58,82,SupportPilot,Prospecting
+REV-30091,LATAM,Brazil,LATAM-Andes,Mei Lin,Mumbai HealthLink,Manufacturing,2026-02,Business,9925.69,490.55,0.0,0.0,80905.61,78116.89,0.0,145011.5,50.2,65339.86,0.98,49,81,FlowSphere,Closed Won
+REV-30092,LATAM,Argentina,LATAM-Brazil,Lucas Almeida,Praga Steelworks,FinTech,2026-02,Starter,307.92,0.0,3489.45,0.0,3525.87,2836.32,0.0,21896.86,13.0,2115.4,0.95,70,68,FlowSphere,Closed Won
+REV-30093,LATAM,Colombia,LATAM-Andes,Mei Lin,Singapore HealthOne,Healthcare,2026-02,Business,6694.73,327.11,0.0,0.0,39322.21,0.0,0.0,291859.23,2,29985.34,0.69,46,77,SupportPilot,Proposal
+REV-30094,LATAM,Brazil,LATAM-Andes,Liam O'Connell,Verde Pharma,FinTech,2026-02,Business,7467.44,1377.99,0.0,23771.24,112260.27,100286.98,0.0,210331.6,48.8,66772.07,0.88,1,48,InsightGrid,Closed Won
+REV-30095,LATAM,Brazil,LATAM-Mexico,Ethan Brooks,Verde Pharma,FinTech,2026-02,Business,10759.17,400.3,134108.76,0.0,81377.61,0.0,0.0,314699.94,23.0,72826.86,0.78,62,86,FlowSphere,Negotiation
+REV-30096,North America,Canada,NA-West,Isabela Costa,Doha LogiTech,SaaS,2026-02,Growth,3850.6,509.11,0.0,0.0,28330.79,0.0,2696.96,108608.89,2,21315.8,0.45,57,72,FlowSphere,Prospecting
+REV-30097,North America,United States,NA-Central,Yuki Tanaka,Kuala Cloudworks,FinTech,2026-02,Business,8186.78,0.0,96337.58,0.0,58773.34,0.0,0.0,183624.37,23.5,45394.16,0.72,58,75,FlowSphere,Proposal
+REV-30098,North America,United States,NA-East,Sven Andersen,Kuala Cloudworks,FinTech,2026-02,Growth,2804.87,465.91,30582.64,0.0,10327.43,9169.66,0.0,80085.42,29.5,12127.22,0.82,75,71,FlowSphere,Closed Won
+REV-30099,North America,United States,NA-East,Sven Andersen,Kuala Cloudworks,FinTech,2026-02,Starter,945.7,49.63,0.0,0.0,13789.39,11705.37,0.0,23334.38,56.4,7149.63,0.93,54,55,SupportPilot,Closed Won
+REV-30100,North America,Canada,NA-East,Hiroshi Sato,Lisbon DataLab,Retail,2026-02,Enterprise,37628.76,3992.67,0.0,0.0,272794.95,191094.36,0.0,562044.06,35.5,235190.46,0.91,59,93,FlowSphere,Closed Won
+REV-30101,North America,Canada,NA-Central,Pieter de Vries,Lisbon DataLab,Retail,2026-02,Business,4824.39,1019.72,0.0,0.0,16013.35,15959.22,0.0,219178.1,15.8,18916.98,0.89,63,86,SupportPilot,Closed Won
+REV-30102,North America,United States,NA-West,Chloé Laurent,Seattle DataHub,Manufacturing,2026-02,Business,7803.89,1154.16,86277.94,0.0,85306.24,73122.76,0.0,234945.36,54.8,48342.54,0.95,71,85,SupportPilot,Closed Won
+REV-30103,North America,Canada,NA-West,Yuki Tanaka,Sydney FinPath,Manufacturing,2026-02,Starter,720.31,30.34,8640.62,0.0,3845.3,3506.0,0.0,19584.2,33.2,3830.41,0.94,71,55,FlowSphere,Closed Won
+REV-30104,North America,United States,NA-Central,Rajiv Kapoor,Toronto MedTech,Manufacturing,2026-02,Starter,339.29,0.0,0.0,0.0,3401.75,3337.88,0.0,24573.09,12.3,2266.65,0.95,52,62,InsightGrid,Closed Won
+REV-30105,APAC,Japan,APAC-Core,Rajiv Kapoor,Aegis Cloud,FinTech,2026-03,Enterprise,37989.06,0.0,0.0,0.0,482543.29,55781.08,0.0,622344.86,14.2,246067.3,0.5,55,94,InsightGrid,Prospecting
+REV-30106,APAC,Malaysia,APAC-ANZ,Yuki Tanaka,Athens Retailers,SaaS,2026-03,Business,9711.45,474.18,0.0,0.0,97449.39,0.0,0.0,179884.51,2.6,64594.37,0.79,57,76,InsightGrid,Negotiation
+REV-30107,APAC,Malaysia,APAC-ANZ,Anika Roth,Athens Retailers,SaaS,2026-03,Enterprise,37786.02,0.0,0.0,0.0,220092.85,212916.99,0.0,456763.63,56.9,226036.1,0.98,43,85,InsightGrid,Closed Won
+REV-30108,APAC,Indonesia,APAC-Core,Yuki Tanaka,Copenhagen Med,SaaS,2026-03,Growth,3453.74,0.0,0.0,0.0,27595.1,20565.83,0.0,68053.96,29.3,24744.41,0.88,47,76,InsightGrid,Closed Won
+REV-30109,APAC,Malaysia,APAC-South,Pieter de Vries,Nordwind Logistics,Healthcare,2026-03,Business,13142.88,3778.85,0.0,0.0,195001.32,0.0,0.0,314898.31,2,115078.69,0.42,53,74,SupportPilot,Prospecting
+REV-30110,APAC,Indonesia,APAC-South,Henrik Bergstrom,São Paulo Pay,Healthcare,2026-03,Enterprise,20232.8,6060.92,0.0,0.0,116705.68,0.0,0.0,619003.89,4.5,106315.1,0.64,60,90,InsightGrid,Proposal
+REV-30111,EMEA,Austria,EMEA-DACH,Marta Sokolowska,Auckland MarketCo,Manufacturing,2026-03,Enterprise,47468.26,0.0,0.0,0.0,215580.94,0.0,188579.02,495195.39,11.7,218650.33,0.57,50,64,FlowSphere,Closed Lost
+REV-30112,EMEA,Austria,EMEA-North,Rajiv Kapoor,Auckland MarketCo,Manufacturing,2026-03,Business,10511.53,0.0,118329.27,0.0,79532.94,0.0,723.68,188379.1,30.6,68530.13,0.82,64,79,InsightGrid,Negotiation
+REV-30113,EMEA,Austria,EMEA-Iberia,Sofia Ricci,Auckland MarketCo,Manufacturing,2026-03,Enterprise,48944.73,2795.6,559257.21,0.0,272953.97,20948.38,0.0,847758.19,37.4,248481.47,0.61,63,90,FlowSphere,Prospecting
+REV-30114,EMEA,Italy,EMEA-Iberia,Ethan Brooks,BlueHarbor Retail,FinTech,2026-03,Enterprise,30974.03,4728.71,348620.38,0.0,139285.9,0.0,125997.83,947502.14,10.5,149396.39,0.72,71,68,InsightGrid,Closed Lost
+REV-30115,EMEA,Norway,EMEA-South,Sofia Ricci,Buenos Aires Tech,SaaS,2026-03,Growth,2094.37,0.0,0.0,0.0,16085.26,0.0,0.0,65161.79,2,14310.5,0.65,43,77,InsightGrid,Proposal
+REV-30116,EMEA,Norway,EMEA-North,Sven Andersen,Buenos Aires Tech,SaaS,2026-03,Starter,739.99,73.48,0.0,0.0,6208.1,4515.09,0.0,23934.39,23.6,5187.91,0.79,57,52,SupportPilot,Closed Won
+REV-30117,EMEA,Denmark,EMEA-North,Noah Becker,Cape Town Apps,Manufacturing,2026-03,Business,7290.93,941.19,82158.6,0.0,42185.66,32510.43,0.0,190643.74,45.2,31875.08,0.91,68,82,SupportPilot,Closed Won
+REV-30118,EMEA,Denmark,EMEA-North,Sven Andersen,Cape Town Apps,Manufacturing,2026-03,Enterprise,74430.11,18776.74,0.0,0.0,830974.66,822987.5,0.0,523488.51,164.1,441595.44,0.98,50,81,InsightGrid,Closed Won
+REV-30119,EMEA,Austria,EMEA-North,Olivia Carter,Helix Biotech,SaaS,2026-03,Growth,2183.7,664.93,0.0,0.0,18562.54,2865.83,0.0,112091.95,2.0,12780.21,0.72,64,75,SupportPilot,Proposal
+REV-30120,EMEA,Poland,EMEA-DACH,Chloé Laurent,Iberia DataWorks,Retail,2026-03,Business,4517.01,0.0,53870.37,0.0,38220.61,3733.35,0.0,148205.07,10.1,28605.24,0.83,64,77,FlowSphere,Negotiation
+REV-30121,EMEA,Belgium,EMEA-Iberia,Jakub Nowak,Lumen Retail Group,FinTech,2026-03,Growth,3094.13,841.85,0.0,0.0,39565.5,0.0,0.0,98030.82,2,20224.06,0.73,61,76,SupportPilot,Negotiation
+REV-30122,EMEA,Belgium,EMEA-South,Lucas Almeida,Lumen Retail Group,FinTech,2026-03,Growth,4073.39,193.68,44178.99,0.0,30339.69,0.0,0.0,63865.12,29.2,22831.71,0.68,70,77,SupportPilot,Proposal
+REV-30123,EMEA,United Kingdom,EMEA-DACH,Diego Alvarez,Milan FashionTech,Retail,2026-03,Business,9182.96,2072.67,0.0,0.0,54833.24,0.0,0.0,230878.11,2,55225.86,0.64,52,84,FlowSphere,Proposal
+REV-30124,EMEA,United Kingdom,EMEA-DACH,Sven Andersen,Milan FashionTech,Retail,2026-03,Starter,678.06,86.41,0.0,0.0,7156.03,5.02,0.0,27968.65,2,5262.51,0.66,52,53,InsightGrid,Proposal
+REV-30125,EMEA,United Kingdom,EMEA-North,Isabela Costa,Milan FashionTech,Retail,2026-03,Starter,962.89,57.06,11238.38,0.0,4975.58,413.56,70.5,32328.03,14.3,5261.52,0.36,64,56,SupportPilot,Prospecting
+REV-30126,EMEA,Portugal,EMEA-South,Camila Rojas,Volta FinServ,FinTech,2026-03,Starter,833.3,107.04,0.0,0.0,5183.72,4716.38,0.0,28712.1,11.2,4461.28,0.91,58,62,InsightGrid,Closed Won
+REV-30127,LATAM,Mexico,LATAM-Mexico,Pieter de Vries,Bengaluru Forge,SaaS,2026-03,Enterprise,18149.95,1044.01,0.0,0.0,214430.52,0.0,0.0,730502.07,10.9,157796.48,0.71,54,92,SupportPilot,Proposal
+REV-30128,LATAM,Mexico,LATAM-Mexico,Camila Rojas,Lyon BioCorp,Healthcare,2026-03,Enterprise,26948.89,0.0,0.0,76609.81,479682.79,0.0,0.0,485527.63,2,177299.95,0.58,1,61,InsightGrid,Prospecting
+REV-30129,LATAM,Brazil,LATAM-Andes,Rajiv Kapoor,Mumbai HealthLink,Manufacturing,2026-03,Starter,322.95,0.0,3634.5,0.0,2732.95,464.02,0.0,27984.76,8.5,1601.93,0.35,69,55,FlowSphere,Prospecting
+REV-30130,LATAM,Argentina,LATAM-Brazil,Henrik Bergstrom,Patagonia FinCo,Healthcare,2026-03,Growth,4073.76,0.0,0.0,0.0,39203.24,0.0,0.0,121689.45,10.0,25412.25,0.56,53,62,FlowSphere,Proposal
+REV-30131,LATAM,Colombia,LATAM-Andes,Jakub Nowak,Singapore HealthOne,Healthcare,2026-03,Enterprise,66953.58,11557.42,828285.82,0.0,697793.76,0.0,0.0,710158.98,41.5,558932.36,0.78,67,93,FlowSphere,Negotiation
+REV-30132,LATAM,Argentina,LATAM-Andes,Anika Roth,Sunrise Wellness,Healthcare,2026-03,Growth,3797.36,352.55,44681.16,0.0,36206.64,0.0,0.0,115157.94,14.6,30991.49,0.62,75,76,InsightGrid,Proposal
+REV-30133,LATAM,Argentina,LATAM-Andes,Olivia Carter,Sunrise Wellness,Healthcare,2026-03,Growth,1874.67,207.19,0.0,0.0,22382.24,0.0,0.0,94495.6,2,13978.23,0.82,47,76,InsightGrid,Negotiation
+REV-30134,LATAM,Brazil,LATAM-Brazil,Lucas Almeida,Verde Pharma,FinTech,2026-03,Starter,861.6,0.0,0.0,0.0,14986.84,0.0,0.0,23109.91,2,10681.14,0.48,55,57,SupportPilot,Prospecting
+REV-30135,North America,Canada,NA-East,Pieter de Vries,Doha LogiTech,SaaS,2026-03,Enterprise,29947.03,5415.1,363837.77,0.0,469569.44,0.0,0.0,719045.39,22.1,316579.11,0.76,78,83,InsightGrid,Proposal
+REV-30136,North America,Canada,NA-West,Liam O'Connell,Lisbon DataLab,Retail,2026-03,Business,13163.1,1532.95,0.0,0.0,98283.31,90588.69,0.0,315733.31,26.6,80448.7,0.94,48,75,SupportPilot,Closed Won
+REV-30137,North America,Canada,NA-West,Lucas Almeida,Lisbon DataLab,Retail,2026-03,Growth,4487.26,733.51,0.0,0.0,66204.59,50920.35,0.0,106702.42,54.5,49799.76,0.98,60,68,FlowSphere,Closed Won
+REV-30138,North America,United States,NA-East,Sven Andersen,Seattle DataHub,Manufacturing,2026-03,Enterprise,39058.91,11327.09,424286.7,0.0,656234.64,509963.08,0.0,823534.87,94.6,338388.87,0.98,68,91,FlowSphere,Closed Won
+REV-30139,North America,Canada,NA-Central,Tomás Ferreira,Sydney FinPath,Manufacturing,2026-03,Growth,1704.09,103.32,20943.64,0.0,25153.35,18666.82,0.0,115855.62,28.1,10761.52,0.95,63,64,InsightGrid,Closed Won
+REV-30140,North America,United States,NA-Central,Priya Menon,Toronto MedTech,Manufacturing,2026-03,Business,5048.48,0.0,0.0,0.0,34502.92,3022.92,0.0,228810.43,2,26456.1,0.88,57,83,InsightGrid,Negotiation
+REV-30141,North America,Canada,NA-Central,Ethan Brooks,Tundra Goods,Retail,2026-03,Enterprise,51316.15,6067.35,0.0,0.0,828490.76,6540.8,0.0,757649.94,2,536372.92,0.45,60,80,InsightGrid,Prospecting
+REV-30142,APAC,Australia,APAC-South,Sofia Ricci,Brightline Analytics,Healthcare,2026-04,Enterprise,15479.66,0.0,0.0,0.0,226705.04,212408.94,0.0,913313.74,31.6,110939.73,0.98,47,91,InsightGrid,Closed Won
+REV-30143,APAC,Australia,APAC-Core,Anika Roth,Brightline Analytics,Healthcare,2026-04,Starter,440.57,0.0,0.0,0.0,3712.2,0.0,0.0,36982.45,2,3334.43,0.75,55,60,SupportPilot,Negotiation
+REV-30144,APAC,Malaysia,APAC-Core,Liam O'Connell,Seoul PaySystems,Retail,2026-04,Starter,1051.21,56.82,13190.45,0.0,8130.08,0.0,0.0,27124.32,12.3,6886.2,0.41,63,53,InsightGrid,Prospecting
+REV-30145,EMEA,Ireland,EMEA-DACH,Aiko Yamamoto,Austin RetailNet,FinTech,2026-04,Business,13914.7,0.0,157527.92,0.0,53741.85,0.0,0.0,316153.61,12.3,65486.92,0.72,69,80,InsightGrid,Negotiation
+REV-30146,EMEA,Austria,EMEA-DACH,Rajiv Kapoor,Helix Biotech,SaaS,2026-04,Business,9285.5,497.22,107184.92,0.0,135525.48,0.0,0.0,236818.5,14.8,93248.98,0.62,58,75,InsightGrid,Proposal
+REV-30147,EMEA,Netherlands,EMEA-Iberia,Liam O'Connell,Kestrel Markets,FinTech,2026-04,Enterprise,33427.1,3475.75,0.0,0.0,349863.94,0.0,0.0,837839.66,2,255871.14,0.9,55,96,SupportPilot,Negotiation
+REV-30148,EMEA,United Kingdom,EMEA-North,Sven Andersen,Milan FashionTech,Retail,2026-04,Growth,4032.35,416.59,0.0,0.0,18424.34,0.0,0.0,84386.46,8.7,19347.48,0.75,57,69,InsightGrid,Negotiation
+REV-30149,LATAM,Argentina,LATAM-Mexico,Sven Andersen,Praga Steelworks,FinTech,2026-04,Enterprise,40183.93,11927.91,471870.37,0.0,623817.9,587264.22,0.0,866260.93,95.3,446093.51,0.95,66,82,SupportPilot,Closed Won
+REV-30150,LATAM,Brazil,LATAM-Andes,Ethan Brooks,Sturm Industries,FinTech,2026-04,Business,5055.32,628.52,0.0,0.0,27648.79,0.0,0.0,168864.33,2,27462.05,0.48,53,88,InsightGrid,Prospecting
+REV-30151,North America,United States,NA-East,Ethan Brooks,Kanto FoodMart,Manufacturing,2026-04,Enterprise,37007.59,2129.13,0.0,0.0,527256.65,374632.81,0.0,595605.65,58.2,401664.16,0.98,53,81,FlowSphere,Closed Won
+REV-30152,North America,United States,NA-Central,Diego Alvarez,Kuala Cloudworks,FinTech,2026-04,Business,10400.0,1884.18,0.0,0.0,65229.35,53483.09,0.0,233220.65,23.8,47162.47,0.98,48,81,SupportPilot,Closed Won
